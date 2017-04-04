@@ -1,3 +1,11 @@
+h3{
+ background-color: rgba(206,236,237,0.6)
+}
+
+li {
+ color: darkslategray;
+}
+
 p {
- color: blue
+ color: darkslategray;
 }
