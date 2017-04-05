@@ -1,7 +1,12 @@
+* {
+ padding: 30px;
+}
+
 h1 {
  font-family:'Source Sans Pro', sans-serif;
  font-weight: "Black";
  font-size: 40px;
+ margin= 0;
 }
 
 h2 {
