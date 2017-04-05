@@ -28,3 +28,7 @@ p {
  font-family:'Source Sans Pro', sans-serif;
  margin: 0; 
 }
+
+.breaking {
+ text-align: center;
+}
