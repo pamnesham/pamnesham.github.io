@@ -1,7 +1,7 @@
 h1 {
  font-family:'Source Sans Pro', sans-serif;
  font-weight: "Black";
- font-size: 28px;
+ font-size: 40px;
 }
 
 h2 {
@@ -12,7 +12,6 @@ h2 {
 h3 {
  background-color: rgba(229,245,252,0.6);
  font-family: 'Source Sans Pro', sans-serif;
- line-height: 1.5em;
 }
 
 h4 {
@@ -27,5 +26,4 @@ li {
 p {
  color: darkslategray;
  font-family:'Source Sans Pro', sans-serif;
- line-height: 1.5em;
 }
