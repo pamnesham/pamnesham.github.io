@@ -1,5 +1,6 @@
 h1 {
- font-family: 'Open Sans', sans-serif;
+ font-family:'Source Sans Pro', sans-serif;
+ font-weight: "Black";
 }
 
 h2 {
@@ -9,14 +10,20 @@ h2 {
 
 h3 {
  background-color: rgba(229,245,252,0.6);
+ font-family: 'Source Sans Pro', sans-serif;
  line-height: 1.5em;
 }
 
+h4 {
+font-family: 'Source Sans Pro', sans-serif;
+}
+
 li {
+ font-family: 'Source Sans Pro', sans-serif;
  color: darkslategray;
 }
 
 p {
  color: darkslategray;
- font-family: 'Open Sans', sans-serif;
+ font-family:'Source Sans Pro', sans-serif;
 }
