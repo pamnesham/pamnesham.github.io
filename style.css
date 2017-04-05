@@ -1,6 +1,7 @@
 h1 {
  font-family:'Source Sans Pro', sans-serif;
  font-weight: "Black";
+ font-size: 28px;
 }
 
 h2 {
@@ -26,4 +27,5 @@ li {
 p {
  color: darkslategray;
  font-family:'Source Sans Pro', sans-serif;
+ line-height: 1.5em;
 }
